@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="QrH8rUWUPgdHoClFrzri-21" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="开始" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-11" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PLC触发线扫开始" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="读取产品信息" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="相机开始采集" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PLC触发线扫到停止位" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-15" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="相机停止采集采集" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-16" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QrH8rUWUPgdHoClFrzri-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="接收图像数据" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-17" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QrH8rUWUPgdHoClFrzri-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="图像分析处理" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-18" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QrH8rUWUPgdHoClFrzri-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="质量检测判断" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="669" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-19" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-8" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成检测报告" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-20" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QrH8rUWUPgdHoClFrzri-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QrH8rUWUPgdHoClFrzri-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-9" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="结果回写PLC" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="QrH8rUWUPgdHoClFrzri-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="结束" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="890" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
